@@ -1,0 +1,6 @@
+{
+  "appId": "com.toddler.phonics.alphabet",
+  "appName": "Toddler Phonics A-Z",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

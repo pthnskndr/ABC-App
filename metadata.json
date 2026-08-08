@@ -1,0 +1,6 @@
+{
+  "name": "ABC Letter Sounds for Babies",
+  "description": "A cheerful, interactive phonics video app & learning station for toddlers with A-Z sounds, speech voice synthesis, joyful animations, and interactive letter cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
